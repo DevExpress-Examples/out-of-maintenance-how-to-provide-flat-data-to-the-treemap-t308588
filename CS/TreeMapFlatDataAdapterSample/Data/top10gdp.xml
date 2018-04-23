@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Countries>
+  <Country>
+    <Name>China</Name>
+    <Gdp>17.768</Gdp>
+    <SideOfWorld>Asia</SideOfWorld>
+  </Country>
+  <Country>
+    <Name>United States</Name>
+    <Gdp>11.384</Gdp>
+    <SideOfWorld>Americas</SideOfWorld>
+  </Country>
+  <Country>
+    <Name>Japan</Name>
+    <Gdp>4.116</Gdp>
+    <SideOfWorld>Asia</SideOfWorld>
+  </Country>
+  <Country>
+    <Name>Germany</Name>
+    <Gdp>3.371</Gdp>
+    <SideOfWorld>Europe</SideOfWorld>
+  </Country>
+  <Country>
+    <Name>India</Name>
+    <Gdp>2.864</Gdp>
+    <SideOfWorld>Asia</SideOfWorld>
+  </Country>
+  <Country>
+    <Name>United Kingdom</Name>
+    <Gdp>2.582</Gdp>
+    <SideOfWorld>Europe</SideOfWorld>
+  </Country>
+  <Country>
+    <Name>France</Name>
+    <Gdp>2.422</Gdp>
+    <SideOfWorld>Europe</SideOfWorld>
+  </Country>
+  <Country>
+    <Name>Italy</Name>
+    <Gdp>1.809</Gdp>
+    <SideOfWorld>Europe</SideOfWorld>
+  </Country>
+  <Country>
+    <Name>Brazil</Name>
+    <Gdp>1.799</Gdp>
+    <SideOfWorld>Americas</SideOfWorld>
+  </Country>
+  <Country>
+    <Name>Canada</Name>
+    <Gdp>1.572</Gdp>
+    <SideOfWorld>Americas</SideOfWorld>
+  </Country>
+</Countries>
