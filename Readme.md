@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/TreeMapFlatDataAdapterSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/TreeMapFlatDataAdapterSample/MainWindow.xaml))**
+<!-- default file list end -->
 # How to provide flat data to the TreeMap
 
 
